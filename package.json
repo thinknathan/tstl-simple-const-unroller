@@ -1,0 +1,21 @@
+{
+	"name": "tstl-simple-const-unroller",
+	"version": "1.0.0",
+	"description": "TypeScriptToLua plugin that performs constant folding for certain binary expressions involving numeric literals",
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/thinknathan/tstl-simple-const-unroller.git"
+  },
+	"author": "Nathan Bolton (https://thinknathan.ca/)",
+	"license": "CC0-1.0",
+	"main": "dist/tstl-unroller.cjs",
+	"type": "commonjs",
+	"scripts": {
+		"build": "tsc"
+	},
+	"devDependencies": {
+		"tsc": "^2.0.4",
+		"typescript": "~5.2.2",
+		"typescript-to-lua": "~1.21.0"
+	}
+}
