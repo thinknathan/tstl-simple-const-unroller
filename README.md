@@ -30,7 +30,7 @@ yarn add git+https://git@github.com/thinknathan/tstl-simple-const-unroller.git#^
 npm install git+https://git@github.com/thinknathan/tstl-simple-const-unroller.git#^1.0.0 --save-dev
 ```
 
-2. Add `tstl-simple-const-unroller` to `tstl.plugins` in `tsconfig.json`
+2. Add `tstl-simple-const-unroller` to `tstl.luaPlugins` in `tsconfig.json`
 
 ```diff
 {
