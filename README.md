@@ -36,7 +36,7 @@ npm install git+https://git@github.com/thinknathan/tstl-simple-const-unroller.gi
 {
 	"tstl": {
 		"luaPlugins": [
-+			{ "name": "tstl-simple-const-unroller }
++			{ "name": "tstl-simple-const-unroller" }
 		],
 	}
 }
