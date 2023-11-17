@@ -4,9 +4,10 @@ TypeScriptToLua plugin that performs [constant folding](https://en.wikipedia.org
 
 - Addition (+)
 - Subtraction (-)
-- Multiplication (*)
+- Multiplication (\*)
 - Division (/)
 - Modulo (%)
+- Exponentiation (\*\*)
 
 ## Example
 
