@@ -9,6 +9,8 @@ TypeScriptToLua plugin that performs [constant folding](https://en.wikipedia.org
 - Modulo (%)
 - Exponentiation (\*\*)
 
+Redundancy warning: Your target Lua runtime may already perform constant folding.
+
 ## Example
 
 ```ts
