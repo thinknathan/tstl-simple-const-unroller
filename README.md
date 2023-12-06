@@ -27,6 +27,8 @@ local hour = 3600
 
 ## Installation
 
+Requires a modern version of TSTL. Tested on TSTL >= 1.22.0.
+
 1. Install this plugin
 
 ```bash
